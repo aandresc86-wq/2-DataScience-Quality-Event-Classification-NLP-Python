@@ -69,10 +69,6 @@ Using a curated dataset of 100 quality events selected to cover the highest-prob
 - **Naive Bayes**
 - **Artificial Neural Network**
 
-The objective was to identify the model with the best performance in terms of **classification accuracy**, **robustness**, and practical usability.
-
-![Regression Models / Model Benchmarking](images/Models.png)
-
 ---
 
 ## 🧠 Selected Neural Network Architecture
