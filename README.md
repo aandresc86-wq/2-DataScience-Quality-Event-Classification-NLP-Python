@@ -7,6 +7,19 @@ The solution combines **Natural Language Processing (NLP)**, **Machine Learning 
 
 ---
 
+## 🎯 Business Problem  
+Quality event logs in industrial environments are often unstructured and require manual classification, leading to inefficiencies, inconsistencies, and delayed decision-making.
+
+---
+
+## ✅ Business Impact  
+- Automated classification of quality events using NLP and Machine Learning  
+- Reduced manual effort in data processing and event screening  
+- Improved accuracy and consistency in defect classification  
+- Enabled faster identification of operational issues and root causes  
+
+---
+
 ## 🎯 Business Context
 In industrial and operational environments, quality event logs often contain unstructured textual descriptions that make manual review slow, inconsistent, and error-prone.
 
