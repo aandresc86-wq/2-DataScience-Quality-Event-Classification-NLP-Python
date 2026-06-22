@@ -12,11 +12,12 @@ Quality event logs in industrial environments are often unstructured and require
 
 ---
 
-## ✅ Business Impact  
-- Automated classification of quality events using NLP and Machine Learning  
-- Reduced manual effort in data processing and event screening  
-- Improved accuracy and consistency in defect classification  
-- Enabled faster identification of operational issues and root causes  
+## 💼 Business Impact
+- Reduced manual effort in event classification  
+- Improved consistency in **quality event screening**  
+- Enabled faster detection of cases related to **data entry and loading errors**  
+- Supported **data-driven quality analysis**  
+- Delivered a practical AI tool for operational users by an automated classification of quality events using NLP and Machine Learning  
 
 ---
 
@@ -174,15 +175,6 @@ The final solution enabled:
 - Clear scoring and probability outputs
 - Faster identification of events associated with **data entry** and **order loading errors**
 - Practical usability through a desktop application
-
----
-
-## 💼 Business Impact
-- Reduced manual effort in event classification  
-- Improved consistency in **quality event screening**  
-- Enabled faster detection of cases related to **data entry and loading errors**  
-- Supported **data-driven quality analysis**  
-- Delivered a practical AI tool for operational users  
 
 ---
 
